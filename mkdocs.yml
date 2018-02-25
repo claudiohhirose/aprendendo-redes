@@ -58,3 +58,4 @@ extra_css:
         - 'extra-css/extra.css'
 pages:
         - Home: index.md
+        - Aula 1: aula-001/index.md
