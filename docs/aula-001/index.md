@@ -9,3 +9,9 @@
 	
 	
 ## O que são Redes?
+
+## Topologias de Redes
+
+## Tipos de Redes
+
+## Tecnologia Ethernet
