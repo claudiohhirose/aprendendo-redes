@@ -9,6 +9,7 @@
 	
 	
 ## O que são Redes?
+Redes de computadores são 
 
 ## Topologias de Redes
 
