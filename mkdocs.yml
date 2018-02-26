@@ -10,8 +10,8 @@ theme:
   logo:
     icon: 'cloud_done'
   palette:
-    primary: 'red'
-    accent: 'red'    
+    primary: 'cyan'
+    accent: 'cyan'    
 markdown_extensions:
         - admonition
         - codehilite:
